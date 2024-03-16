@@ -3,6 +3,7 @@ body{
     background-color:#FFFFFF;
     font-weight: 400;
     color:#434455;
+    
 }
 
 .logo{
@@ -13,19 +14,21 @@ body{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform:uppercase;
+    text-decoration: none;
 }
 .logo-span{
     font-family: "Raleway", sans-serif;
-        color:#2E2F42;    
+    color:#2E2F42;
+    
 }
 
-.header-link,
 .header-link{
     color:#2E2F42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-decoration: none;
 
 }
 .header-link:hover,
@@ -43,6 +46,7 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     font-size: 16px;
+    text-decoration: none;
 }
 .contacts-info:hover,
 .contacts-info:focus{
@@ -179,6 +183,7 @@ ul {
     line-height:1.17;
     letter-spacing:0.03em;
     text-transform:uppercase;
+    text-decoration: none;
 }
 
 .footer-logo-span{
