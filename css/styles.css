@@ -28,13 +28,12 @@ body{
     letter-spacing: 0.02em;
 
 }
-.header-link:hover{
+.header-link:hover,
+.header-link:focus
+{
     color: #404BBF;
 }
 
-.header-link-first:hover,
-.header-link-first:focus{
-    color: #404BBF;
 }
 
 .contacts{
